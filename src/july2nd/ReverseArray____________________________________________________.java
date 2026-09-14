@@ -43,6 +43,8 @@ public class ReverseArray____________________________________________________
 			System.out.print(w + "  ");
 		}
 
+		
+		sc.close();
 	}
 
 }

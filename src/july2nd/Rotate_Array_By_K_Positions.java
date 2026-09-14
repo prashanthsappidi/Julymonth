@@ -44,6 +44,8 @@ public class Rotate_Array_By_K_Positions
 		{
 			System.out.print(t+"   ");
 		}
+		
+		sc.close();
 	}
 
 }

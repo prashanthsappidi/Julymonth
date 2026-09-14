@@ -36,6 +36,8 @@ public class MoveZerosToEnd_in_Array____________________________{
 		for (int w : arr) {
 			System.out.print(w + "  ");
 		}
+		
+		sc.close();
 	}
 
 }
