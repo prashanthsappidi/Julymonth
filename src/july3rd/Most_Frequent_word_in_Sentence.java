@@ -5,7 +5,7 @@ import java.util.*;
 public class Most_Frequent_word_in_Sentence {
 
 	public static void main(String[] args) {
-		String sen = "iam a qa automation engineer qa ";
+		String sen = "iam a qa a automation engineer qa ";
 		String words[] = sen.split("\\s+");
 
 		HashMap<String, Integer> hm = new HashMap<String, Integer>();
